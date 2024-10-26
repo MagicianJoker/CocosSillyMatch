@@ -36,5 +36,7 @@ window._CCSettings = {
     launchScene: "db://assets/scene/loading.fire",
     orientation: "portrait",
     debug: true,
-    jsList: []
+    jsList: [
+        "assets/script/protobuf.js"
+    ]
 };
